@@ -1,0 +1,21 @@
+{
+    "id": "hello-world",
+    "name": "Hello, World!",
+    "versions": {
+        "package": "0.1.0"
+    },
+    "description": "A simple app that says Hello, World!",
+    "author": {
+        "name": "Kwaai",
+        "url": "https://kwaai.ai/"
+    },
+    "maintainer": {
+        "name": "Sam Johnston",
+        "email": "samj@samj.net",
+        "url": "http://samjohnston.org"
+    },
+    "language": "python",
+    "license": "MIT",
+    "dependencies": [
+    ]
+}

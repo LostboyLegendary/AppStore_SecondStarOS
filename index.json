@@ -1,0 +1,10 @@
+{
+    "apps": [
+        {
+            "id": "hello-world",
+            "name": "Hello, World!",
+            "description": "A simple app that says Hello, World!",
+            "url": "https://github.com/pAI-OS/apps/hello-world"
+        }
+    ]
+}
